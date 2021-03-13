@@ -634,6 +634,13 @@
     jsonc-parser "3.0.0"
     pluralize "8.0.0"
 
+"@nestjs/serve-static@^2.1.4":
+  version "2.1.4"
+  resolved "https://registry.yarnpkg.com/@nestjs/serve-static/-/serve-static-2.1.4.tgz#d25f7691b0cb19d3f12d161129dd1469dfdc880d"
+  integrity sha512-w2PpLKzQOB8rJ+vMOy28xm8jwE8VjJfA9U+KOm0H0OY62g2oOWJ+OQPSDogP7XxAzZwq+Bt8wNU2oS8+z6v6Zg==
+  dependencies:
+    path-to-regexp "0.1.7"
+
 "@nestjs/testing@^7.6.13":
   version "7.6.14"
   resolved "https://registry.yarnpkg.com/@nestjs/testing/-/testing-7.6.14.tgz#b1093250157a54fe6b27ec164bdbdc0d26dcd841"
@@ -5376,6 +5383,11 @@ supports-hyperlinks@^2.0.0:
   dependencies:
     has-flag "^4.0.0"
     supports-color "^7.0.0"
+
+svelte@^3.35.0:
+  version "3.35.0"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.35.0.tgz#e0d0ba60c4852181c2b4fd851194be6fda493e65"
+  integrity sha512-gknlZkR2sXheu/X+B7dDImwANVvK1R0QGQLd8CNIfxxGPeXBmePnxfzb6fWwTQRsYQG7lYkZXvpXJvxvpsoB7g==
 
 symbol-observable@3.0.0:
   version "3.0.0"
